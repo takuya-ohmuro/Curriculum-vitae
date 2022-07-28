@@ -10,7 +10,7 @@
 
 ## スキル
 ### 言語
-- Dart(3年)
+- Dart(3年弱)
 - Swift(5年弱)
 - Typescript(1年強)
 
