@@ -4,7 +4,7 @@
 
 | キー | 値 |
 | --- | --- |
-| 名前 | 大室 拓哉 |
+| 名前 | 大室 拓也 |
 | 年齢 | 29 |
 | ストア | [アカウント](https://apps.apple.com/jp/developer/takuya-ohmuro/id1523954162) |
 
